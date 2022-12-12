@@ -37,7 +37,6 @@ I am Mavrakis Antonis, currently working as a Web Developer at [Airshop.gr](http
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=MercyMePlz&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MercyMePlz&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MercyMePlz.MercyMePlz)
