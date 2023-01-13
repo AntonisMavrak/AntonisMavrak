@@ -24,6 +24,8 @@ I am Mavrakis Antonis, currently working as a Web Developer at [Airshop.gr](http
 [![Gmail Badge](https://img.shields.io/badge/-antonis.mavrak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonis.mavrak@gmail.com)](mailto:antonis.mavrak@gmail.com)
 </div>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AntonisMavrak.AntonisMavrak)
+
 <details>
 <summary> 
   <h3>⚡ Technologies </h3> </summary>
@@ -44,11 +46,9 @@ I am Mavrakis Antonis, currently working as a Web Developer at [Airshop.gr](http
 
 </details>
 
-<details>
+<!-- <details>
 <summary> 
   <h3> 📈 Github Stats </h3> </summary>
 <br>
 
-![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonisMavrak&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisMavrak&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AntonisMavrak.AntonisMavrak)
+![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonisMavrak&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisMavrak&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
