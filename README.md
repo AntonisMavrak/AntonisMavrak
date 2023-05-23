@@ -24,7 +24,7 @@ I am Mavrakis Antonis, currently working as a Web Developer at [Airshop.gr](http
 [![Gmail Badge](https://img.shields.io/badge/-antonis.mavrak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonis.mavrak@gmail.com)](mailto:antonis.mavrak@gmail.com)
 </div>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AntonisMavrak.AntonisMavrak)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AntonisMavrak.AntonisMavrak) -->
 
 <details>
 <summary> 
