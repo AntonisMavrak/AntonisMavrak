@@ -42,7 +42,6 @@ I am Mavrakis Antonis, currently working as a Web Developer at [Airshop.gr](http
 ![Redis](https://img.shields.io/badge/-Redis-f57242?style=flat-square&logo=Redis)
 ![MySQL](https://img.shields.io/badge/-MySQL-00044f?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 </details>
 
