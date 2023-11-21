@@ -22,9 +22,12 @@ I am Mavrakis Antonis, currently working as a Web Developer at [Airshop.gr](http
   
 [![Linkedin Badge](https://img.shields.io/badge/-Mavrakis_Antonis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonis-mavrakis-a33461142/)](https://www.linkedin.com/in/antonis-mavrakis-a33461142/)
 [![Gmail Badge](https://img.shields.io/badge/-antonis.mavrak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antonis.mavrak@gmail.com)](mailto:antonis.mavrak@gmail.com)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AntonisMavrak.AntonisMavrak)
 </div>
-
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AntonisMavrak.AntonisMavrak) -->
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisMavrak&layout=compact)
+</div>
 
 <details>
 <summary> 
