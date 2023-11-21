@@ -26,7 +26,7 @@ I am Mavrakis Antonis, currently working as a Web Developer at [Airshop.gr](http
 </div>
 <div align="center">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisMavrak&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonisMavrak&layout=compact&theme=dracula)
 </div>
 
 <details>
