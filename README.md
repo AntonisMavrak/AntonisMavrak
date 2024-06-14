@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## :man_technologist: About Me
-I am Mavrakis Antonis, currently working as a Web Developer at [Airshop.gr](https://www.airshop.gr/). I am a Full-Stack JavaScript/PHP developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Mavrakis Antonis. I am a Full-Stack JavaScript/PHP developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 <div id="links" align="center">
   
