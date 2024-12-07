@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## :man_technologist: About Me
-I am Mavrakis Antonis. I am a Full-Stack JavaScript/PHP developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am **Mavrakis Antonis**. 
+I am a **Full-Stack developer** and love writing clean and maintainable code. Currently working as an **automation test developer** at *[Chubb](https://www.linkedin.com/company/chubb/posts/?feedView=all)*
+
+Find out more about me & feel free to connect with me here:
 
 <div id="links" align="center">
   
